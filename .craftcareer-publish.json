@@ -1,6 +1,21 @@
 {
   "application": "CraftCareer",
   "projectId": "fcfecbe18c1a4d8da0dfcaf485d0d55e",
-  "files": [],
-  "commit": null
+  "files": [
+    "config/site.js",
+    "config/sections/profile.js",
+    "index.html",
+    "css/site.css",
+    "js/layout.js",
+    "js/icons.js",
+    "ICONS-LICENSES.md",
+    "js/runtime.js",
+    "js/boot.js",
+    "README.md",
+    "craftcareer.json",
+    "assets/profile/images/harbour.webp",
+    ".nojekyll"
+  ],
+  "commit": null,
+  "publishedAt": "2026-10-26T06:31:57.253Z"
 }
